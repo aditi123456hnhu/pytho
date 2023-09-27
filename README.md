@@ -1,1 +1,1 @@
-# pytho
+student managment system
